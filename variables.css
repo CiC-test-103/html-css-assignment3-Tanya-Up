@@ -45,4 +45,8 @@
   /* Fonts */
   --fs-base: 'Outfit';
   --fs-accent: 'Young-Serif';
+
+  /* Radius */
+  --brd-radius: 20px;
+
 }
